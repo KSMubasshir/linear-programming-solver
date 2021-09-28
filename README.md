@@ -1,4 +1,4 @@
-# matlab-linear-programming-solver
+# linear-programming-solver
 A MATLAB program to solve linear programming using simplex method and plot the solution region.
 ## Linear Programming
 [**Linear programming**](https://en.wikipedia.org/wiki/Linear_programming). (LP, also called linear optimization) is a method to achieve the best outcome (such as maximum profit or lowest cost) in a mathematical model whose requirements are represented by linear relationships.
